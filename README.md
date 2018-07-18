@@ -1,2 +1,3 @@
 #My fiert Git project
-Dummy project to learn Git basics
+
+Dummy projectto learn Git basicss
